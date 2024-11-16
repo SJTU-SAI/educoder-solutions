@@ -6,5 +6,5 @@
 
 - [T2 寻找鞍点](lab-07-1111/T2.md)
 - T4 最长无重复字符串的长度
-   1. [$O(n)$ 解法](lab-07-1111/T4-1.md) by @dragon-archer
-   2. [$O(nlogn)$ 解法](lab-07-1111/T4-2.md) by @KROX777
+   1. $O(n)$ [解法](lab-07-1111/T4-1.md) by [@dragon-archer](https://github.com/dragon-archer)
+   2. $O(nlogn)$ [解法](lab-07-1111/T4-2.md) by [@KROX777](https://github.com/KROX777)
