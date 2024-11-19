@@ -2,6 +2,11 @@
 
 此处包含了每次头歌平台上作业的题解
 
+## lab-08-1118
+
+- T4 最少点击次数
+  1. [高斯消元解法](lab-08-1118/T4-1.md) by [@dragon-archer](https://github.com/dragon-archer)
+
 ## lab-07-1111
 
 - [T2 寻找鞍点](lab-07-1111/T2.md)
